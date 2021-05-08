@@ -1,6 +1,7 @@
-# hello-world
-just a repository
+# Training
 
-Greetings
+This repository contains mainly examples that I have written during the development of the Simahzen.
 
-I am a student and I am learning code. I thought maybe the github can help me so I am here :) 
+## Curriculum
+
+[FreeCodeCamp Learning Path](www.freecodecamp.org)
