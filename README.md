@@ -4,4 +4,4 @@ This repository contains mainly examples that I have written during the developm
 
 ## Curriculum
 
-[FreeCodeCamp Learning Path](www.freecodecamp.org)
+[FreeCodeCamp Learning Path](https://www.freecodecamp.org)
